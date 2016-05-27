@@ -1,3 +1,4 @@
+require "thor"
 module Githubkun
   class CLI < Thor
     desc "list GITHUB_TOKEN", "List repositories"
