@@ -1,4 +1,5 @@
 require "spec_helper"
+require "webmock/rspec"
 
 module Githubkun
   describe Github do
