@@ -1,3 +1,4 @@
+require "githubkun/github"
 require "githubkun/version"
 
 module Githubkun
